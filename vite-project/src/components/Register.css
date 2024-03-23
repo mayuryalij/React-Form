@@ -1,0 +1,21 @@
+.custom-div {
+  margin-top: 100px;
+}
+
+input {
+  margin-top: 10px;
+  padding: 16px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 7px !important;
+}
+.register-container {
+  background-color: beige;
+
+  width: 350px;
+  text-align: center;
+  margin: 0 auto;
+}
